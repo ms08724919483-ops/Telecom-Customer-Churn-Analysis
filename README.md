@@ -48,5 +48,9 @@ Developed a data-driven retention strategy highlighting contract migration and s
 ---
 
 ## 📷 Dashboard Preview
+<img width="985" height="566" alt="executive_overview" src="https://github.com/user-attachments/assets/304ed6a8-dd4f-4fc4-bab3-882efe4d4a81" />
 
-(Insert screenshots here)
+<img width="978" height="558" alt="root_cause" src="https://github.com/user-attachments/assets/22659429-9222-46c2-8c1c-3f1fbbc0c6d7" />
+
+<img width="978" height="559" alt="strategic_simulation" src="https://github.com/user-attachments/assets/5d75270c-9ddc-4d80-b83a-88009f2df547" />
+
